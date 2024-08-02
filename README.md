@@ -7,7 +7,7 @@ This repository is designed to store solutions to various exercises related to p
 To get started, clone this repository to your local machine using:
 
 ```
-git clone https://github.com/DeanVini/parallel-programing-activities/edit/main/README.md
+git clone https://github.com/DeanVini/parallel-programing-activities
 ```
 
 ## Installing MPICH on Ubuntu
